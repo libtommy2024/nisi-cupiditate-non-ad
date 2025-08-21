@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/nisi-cupiditate-non-ad",
-  "version": "16.44.426",
+  "version": "16.44.427",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -246,5 +246,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/nisi-cupiditate-non-ad/issues"
   },
-  "packageManager": "yarn@4.9.2"
+  "packageManager": "yarn@4.9.3"
 }
